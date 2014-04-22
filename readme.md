@@ -1,3 +1,5 @@
+**NOTE** This repository's home has moved to [MarionetteJS/Backbone.Syphon](https://github.com/marionettejs/backbone.syphon). You should fork / star / watch that repo, no this one.
+
 Backbone.Syphon - serialize the forms in your
 Backbone.Views into a JSON object for use with 
 Backbone's models.
